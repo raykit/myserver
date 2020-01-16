@@ -1,0 +1,98 @@
+{
+  "orderSn": 134687987978,
+  "leader": "raykit",
+  "buyer": "raykit-1",
+  "phone": 131645895263,
+  "realPayNum": 1000,
+  "realRefund": 123232,
+  "buyTime": "2018-12-18 16:40:30",
+  "couponInfo": {
+    "coupon_name": "优惠券名称",
+    "coupon_id": "优惠券ID",
+    "coupon_price": 123
+  },
+  "goodsInfo": {
+    "type": "only or all",
+    "price_total": 0,
+    "list": [
+      {
+        "goods_id": 1,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      },
+      {
+        "goods_id": 2,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      },
+      {
+        "goods_id": 3,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      },
+      {
+        "goods_id": 4,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      },
+      {
+        "goods_id": 5,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      },
+      {
+        "goods_id": 6,
+        "goods_name": "苹果西瓜学历测试测试测试",
+        "size": "10斤",
+        "unit_price": 12,
+        "real_price": 2,
+        "coupon_price": 10,
+        "count": 100,
+        "back_count": 50,
+        "sale_after_count": 1,
+        "max_sale_after_count": 50,
+        "back_price": 100
+      }
+    ]
+  }
+}

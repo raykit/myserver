@@ -1,0 +1,41 @@
+{
+  "Offset": 0,
+  "Total": 4,
+  "Results": [{
+    "DeliveryReceitpId": 10,
+    "DeliveryReceitpNo": "DR181204100104",
+    "CommunityName": "超神学园",
+    "ColonelName": "谢鱼",
+    "ColonelPhone": "13212345641",
+    "AddTime": "2018-12-04 16:52:09",
+    "RouteName": "谢羽专用线路",
+    "PrintState": 0
+  }, {
+    "DeliveryReceitpId": 9,
+    "DeliveryReceitpNo": "DR181204600090",
+    "CommunityName": "凤凰E小区",
+    "ColonelName": "张小达",
+    "ColonelPhone": "13212345613",
+    "AddTime": "2018-12-04 16:52:09",
+    "RouteName": "测试线路1",
+    "PrintState": 0
+  }, {
+    "DeliveryReceitpId": 3,
+    "DeliveryReceitpNo": "DR181203600146",
+    "CommunityName": "凤凰E小区",
+    "ColonelName": "张小达",
+    "ColonelPhone": "13212345613",
+    "AddTime": "2018-12-03 14:35:37",
+    "RouteName": "测试线路1",
+    "PrintState": 0
+  }, {
+    "DeliveryReceitpId": 1,
+    "DeliveryReceitpNo": "DR181201100166",
+    "CommunityName": "凤凰E小区",
+    "ColonelName": "张小达",
+    "ColonelPhone": "13212345613",
+    "AddTime": "2018-12-01 15:46:44",
+    "RouteName": "测试线路1",
+    "PrintState": 0
+  }]
+}

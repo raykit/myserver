@@ -1,0 +1,16 @@
+[
+  {
+    "user": 13168315250,
+    "password": 123456,
+    "userName": "Raykit",
+    "role": "BDM",
+    "userPromise": 1
+  },
+  {
+    "user": 15626188056,
+    "password": 123456,
+    "userName": "曾珍",
+    "role": "BDM",
+    "userPromise": 2
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "error_code": 0,
+  "message": "请求成功",
+  "lines": [
+    {
+      "title": "白云1线",
+      "id": 1,
+      "canSelect": true
+    }, {
+      "title": "白云2线",
+      "id": 2,
+      "canSelect": true
+    }, {
+      "title": "白云3线",
+      "id": 3,
+      "canSelect": true
+    }, {
+      "title": "白云4线",
+      "id": 4,
+      "canSelect": true
+    }, {
+      "title": "白云5线",
+      "id": 5,
+      "canSelect": true
+    }, {
+      "title": "白云6线",
+      "id": 6,
+      "canSelect": true
+    }
+  ],
+  "goods": [
+    {
+      "title": "商品1号",
+      "id": 1,
+      "canSelect": true
+    }, {
+      "title": "商品2号",
+      "id": 2,
+      "canSelect": true
+    }, {
+      "title": "商品3号",
+      "id": 3,
+      "canSelect": true
+    }, {
+      "title": "商品4号",
+      "id": 4,
+      "canSelect": true
+    }, {
+      "title": "商品5号",
+      "id": 5,
+      "canSelect": true
+    }, {
+      "title": "商品6号",
+      "id": 6,
+      "canSelect": true
+    }, {
+      "title": "商品7号",
+      "id": 7,
+      "canSelect": true
+    }
+  ]
+}
